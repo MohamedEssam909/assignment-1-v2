@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\assignment 1 v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F162B53-853F-4431-BF01-16B76FC8AC47}|assignment 1 v2\\assignment 1 v2.vcxproj|C:\\Users\\HP\\source\\repos\\assignment 1 v2\\assignment 1 v2\\assignment 1 v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F162B53-853F-4431-BF01-16B76FC8AC47}|assignment 1 v2\\assignment 1 v2.vcxproj|solutionrelative:assignment 1 v2\\assignment 1 v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "assignment 1 v2.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\assignment 1 v2\\assignment 1 v2\\assignment 1 v2.cpp",
+              "RelativeDocumentMoniker": "assignment 1 v2\\assignment 1 v2.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\assignment 1 v2\\assignment 1 v2\\assignment 1 v2.cpp",
+              "RelativeToolTip": "assignment 1 v2\\assignment 1 v2.cpp",
+              "ViewState": "AgIAABIBAAAAAAAAAAAAwBgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T12:27:24.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
